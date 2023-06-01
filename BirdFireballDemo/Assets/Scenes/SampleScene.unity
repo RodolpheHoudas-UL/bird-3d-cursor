@@ -6762,11 +6762,11 @@ PrefabInstance:
     - target: {fileID: 1464189208609141671, guid: 473d079eb020ad24184a63656bf54144, type: 3}
       propertyPath: birdHand
       value: 
-      objectReference: {fileID: 165585583}
+      objectReference: {fileID: 414346301}
     - target: {fileID: 7974667857732857441, guid: 473d079eb020ad24184a63656bf54144, type: 3}
       propertyPath: birdHand
       value: 
-      objectReference: {fileID: 40919614}
+      objectReference: {fileID: 1362132226}
     - target: {fileID: 8891389444157085588, guid: 473d079eb020ad24184a63656bf54144, type: 3}
       propertyPath: m_RootOrder
       value: 8
