@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class StickToBird : MonoBehaviour
 {
-    Bird bird;
+    Ultrabird bird;
     public GameObject birdHand;
     bool stuck;
     Collider thisCollider;
@@ -13,7 +13,7 @@ public class StickToBird : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        bird = birdHand.GetComponent<Bird>();
+        bird = birdHand.GetComponent<Ultrabird>();
 
         if (bird == null)
         {
